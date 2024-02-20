@@ -31,7 +31,7 @@ function App() {
       })
       setData(characters)
     }
-    getData
+    getData()
   }, []);
 
   return (
